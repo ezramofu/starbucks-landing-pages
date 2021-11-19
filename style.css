@@ -10,7 +10,7 @@ section
 {
     position: relative;
     width: 85%;
-    min-height: 80vh;
+    min-height: 100vh;
     padding: 100px;
     display: flex;
     justify-content: space-between;
@@ -67,7 +67,7 @@ header ul li a
 {
     color: #333;
     font-size: 4em;
-    line-height: 1.4em;
+    line-height: 1.2em;
     font-weight: 500;
 }
 .content .textBox h2 span
@@ -116,7 +116,7 @@ header ul li a
 {
     list-style: none;
     display: inline-block;
-    margin: 0 20px;
+    margin: 0 30px;
     cursor: pointer;
     transition: 0.5s;
 }
